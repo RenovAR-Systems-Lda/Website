@@ -22,7 +22,7 @@ O build executa a verificação TypeScript e gera `dist/`. O preview serve o bui
 
 ## Publicação
 
-O domínio `renovar-systems.com` está associado ao projeto `renovar` no Cloudflare Pages. A integração Git usa a branch `main` do repositório `Stardust-Systems-Lda/Website`, com `npm run build` e diretório de saída `dist`.
+O domínio `renovar-systems.com` está associado ao projeto `renovar` no Cloudflare Pages. A integração Git usa a branch `main` do repositório `RenovAR-Systems-Lda/Website`, com `npm run build` e diretório de saída `dist`.
 
 As alterações devem entrar numa branch própria e ser revistas num Pull Request. A publicação automática depende da integração nessa branch de produção e do sucesso do build no Cloudflare.
 
